@@ -1,4 +1,5 @@
-# portfolio_assets_bibledojo
+# portfolio_assets_cisco
+
 ```markdown
 # Image Migration Script Cheat Sheet
 
@@ -11,7 +12,12 @@ python3 migrate.py --scan
 # Step 2: Download images locally (auto-names them)
 python3 migrate.py --download
 
-# Step 3: Replace old links with CDN links
+# Step 3: Push to Github
+git add .
+git commit -m "Migrated images and updated links"
+git push origin main
+
+# Step 4: Replace old links with CDN links
 python3 migrate.py --replace
 ```
 
@@ -23,26 +29,29 @@ python3 migrate.py --replace
 
 ```python
 GITHUB_USER = "pwebsite"           # Your GitHub username
-REPO_NAME = "portfolio_images"     # Your GitHub repo name
+REPO_NAME = "portfolio_assets_shopmonkey"     # Your GitHub repo name
 BRANCH = "main"                    # Branch name (usually "main")
-REPO_SUBFOLDER = "auto"            # Uses current folder name, or set manually
+REPO_SUBFOLDER = ""            # Uses current folder name, or set manually
 ```
 
 ## What Each Step Does
 
 ### `--scan`
+
 - Scans all `.md` and `.html` files in the current directory
 - Finds image URLs (Markdown `![](url)` and HTML `<img src="">`)
 - Creates `mapping.csv` with all found images
 - Creates `preview.html` so you can see which image is which
 
 ### `--download`
+
 - Reads `mapping.csv`
 - Downloads each image to the current folder
 - Auto-names them like `foldername_01.png`, `foldername_02.jpg`, etc.
 - You can manually edit `mapping.csv` before downloading to choose custom names
 
 ### `--replace`
+
 - Updates all `.md` and `.html` files
 - Replaces old image URLs with new CDN links
 - Creates `.backup` files before modifying anything
@@ -57,6 +66,11 @@ REPO_SUBFOLDER = "auto"            # Uses current folder name, or set manually
 ## Example
 
 If you're in a folder called `shopmonkey`:
+
 - Downloaded images: `shopmonkey_01.png`, `shopmonkey_02.jpg`
+
 - CDN links: `https://cdn.jsdelivr.net/gh/pwebsite/portfolio_images@main/shopmonkey/shopmonkey_01.png`
-```
+  
+  ```
+  
+  ```
