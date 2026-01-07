@@ -29,7 +29,7 @@ python3 migrate.py --replace
 
 ```python
 GITHUB_USER = "pwebsite"           # Your GitHub username
-REPO_NAME = "portfolio_assets_shopmonkey"     # Your GitHub repo name
+REPO_NAME = "portfolio_assets_bibledojo"     # Your GitHub repo name
 BRANCH = "main"                    # Branch name (usually "main")
 REPO_SUBFOLDER = ""            # Uses current folder name, or set manually
 ```
