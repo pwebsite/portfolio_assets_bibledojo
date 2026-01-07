@@ -30,19 +30,17 @@ I led UX design, collaborating with visual designer and illustrator to shape the
 
 ### Intimidating
 
-![image.png](BibleDojo%20by%20Basil%20Tech%20(1)/image.png)
-
-Graduate-level seminary material intimidates many users, but provides valuable textual analytical skills for deeper biblical insights.
+![image 1.png](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_38.png)Graduate-level seminary material intimidates many users, but provides valuable textual analytical skills for deeper biblical insights.
 
 ### Information Transfer
 
-![image 1.png](BibleDojo%20by%20Basil%20Tech%20(1)/image_1.png)
+![image 1.png](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_39.png)
 
 Current LMS approaches use talking head information transfer with minimal hands-on skill development. Most users without graduate training cannot independently analyze biblical passages.
 
 ### Building Confidence
 
-![image 2.png](BibleDojo%20by%20Basil%20Tech%20(1)/image_2.png)
+![image 2.png](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_40.png)
 
 Building biblical analysis confidence requires practice and targeted feedback. Users often abandon efforts when learning feels too difficult.
 
@@ -59,7 +57,6 @@ Building biblical analysis confidence requires practice and targeted feedback. U
 ## Core Vision
 
 > Create a fun and engaging online Bible education platform that empowers high schoolers and beyond to independently and accurately analyze biblical texts through a gamified ecosystem fostering skill mastery and deep learning.
-> 
 
 ---
 
@@ -366,7 +363,6 @@ Balanced four distinct areas with unique needs and constraints:
 ## Validation Question
 
 > Can users effectively analyze biblical text independently using skills learned from BibleDojo?
-> 
 
 ## User Testing
 
