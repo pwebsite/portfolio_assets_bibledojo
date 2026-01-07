@@ -8,7 +8,7 @@ Platform: Desktop Web, Mobile Web
 Tools: Figma
 Link: https://www.enterthebibledojo.com/
 
-![](https://framerusercontent.com/images/h7wNKxkuWOIyD9XauStASBP8.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_28.png)
 
 ---
 
@@ -87,7 +87,7 @@ Building biblical analysis confidence requires practice and targeted feedback. U
 
 ## Process Overview
 
-![](https://framerusercontent.com/images/L1qgGahzROPjWiJysHWYWrvbmCc.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_11.png)
 
 *From left to right: Discover, Define, and Develop triple diamond process framework*
 
@@ -107,7 +107,7 @@ Users currently rely on various tools: Bible Project videos, alternate translati
 
 Developed two main personas from user research to focus our efforts:
 
-![](https://framerusercontent.com/images/ewIHxOL2cQw91ZvS3IHpelgRSU.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_27.png)
 
 ---
 
@@ -125,7 +125,7 @@ Developed two main personas from user research to focus our efforts:
 
 # User Journey
 
-![](https://framerusercontent.com/images/Yv3jQ95eoRjIilFtVeHqiH6MKQw.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_23.png)
 
 Clear pain points emerged at the halfway point, creating opportunities for targeted improvements in user engagement and motivation.
 
@@ -137,7 +137,7 @@ Clear pain points emerged at the halfway point, creating opportunities for targe
 
 Balanced four distinct areas with unique needs and constraints:
 
-![](https://framerusercontent.com/images/BaFY2jMQPH9iJvxa3SqxrPvMso.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_06.png)
 
 **1. User Needs:** Move from passive consumption to active skill mastery, clear progress visibility, defined learning pathways
 
@@ -153,11 +153,11 @@ Balanced four distinct areas with unique needs and constraints:
 
 ## Game Architecture
 
-![](https://framerusercontent.com/images/Wc5jG0pjzE2rV2CYb8yd5DjH64.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_21.png)
 
 **Goals:** Progressive skill mastery, balanced guidance with exploration, connected skills/belts/genres
 
-![](https://framerusercontent.com/images/AhTitZmEYAuJOZN98X0A.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_05.png)
 
 ---
 
@@ -167,15 +167,15 @@ Balanced four distinct areas with unique needs and constraints:
 
 **Key considerations:** Collectibles vs. parts of whole approach, skill level across multiple genres, belt integration, visual clarity using color
 
-![](https://framerusercontent.com/images/wq8uw0Aih7ToLd4abgLg5JNI.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_35.png)
 
 *Progress-based visual explorations for skills*
 
-![](https://framerusercontent.com/images/RspsnZPXk6OPtQSSaiVK6xkAoY.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_17.png)
 
 *Skill badges: Locked, Unlocked, In Progress, Complete*
 
-![](https://framerusercontent.com/images/znZcdDO0O2WhlVSo4uXtVuBR4.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_37.png)
 
 *Color schemes denoting different game scopes*
 
@@ -185,11 +185,11 @@ Balanced four distinct areas with unique needs and constraints:
 
 **Key considerations:** Adaptive desktop/mobile layout, clear no belt starting state, circular design implies continuous learning journey
 
-![](https://framerusercontent.com/images/JQqNpn2eODPi3K8daBJzc6hLV0.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_10.png)
 
 *Belt progress explorations: linear and circular models*
 
-![](https://framerusercontent.com/images/LR74Ztw1hJyf9jf8YMCxL6o0MQ.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_13.png)
 
 *Final odometer design for belt progress*
 
@@ -199,11 +199,11 @@ Balanced four distinct areas with unique needs and constraints:
 
 **Key considerations:** Multiple states (locked, unlocked, in progress, completed), skills integration in thumbnails, visual emphasis on art for engagement
 
-![](https://framerusercontent.com/images/iwB1qqjy7a5k4kcGtMn19Cb46Qs.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_29.png)
 
 *Design explorations showing relevant skills in training thumbnails*
 
-![](https://framerusercontent.com/images/56be6FNagnXMKKWFuB4jknA9hOo.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_02.png)
 
 *Final training thumbnails: Locked, Unlocked, In Progress, Complete*
 
@@ -213,7 +213,7 @@ Balanced four distinct areas with unique needs and constraints:
 
 **Key considerations:** Clear separate belt system per genre, distinct color schemes for different worlds, multiple states (no belt, colored belt, coming soon)
 
-![](https://framerusercontent.com/images/1F46AgbBL4Piq9Tdaiittv7rU.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_01.png)
 
 *Genre thumbnails featuring art and belt progression indicators*
 
@@ -225,19 +225,19 @@ Balanced four distinct areas with unique needs and constraints:
 
 **Key decisions:** Use visual cues (blur/grayscale) to gradually reveal content, balance mystery with clarity
 
-![](https://framerusercontent.com/images/SDEdBKaZaEg4pwhcV9tsuqbZLyk.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_18.png)
 
 *Pre-Training wireframes exploring layouts and hierarchy*
 
-![](https://framerusercontent.com/images/eD1081IuI2ho7iZVKVde0T6y3A.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_25.png)
 
 *Pop-up and sidebar designs for referencing belt levels across genres*
 
-![](https://framerusercontent.com/images/rRqPGJFQM2uj0r7egA9Mm5x54I.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_31.png)
 
 *Belt celebration flow creating moments of delight*
 
-![](https://framerusercontent.com/images/Of0dBCQQN9JdtAQzyPEDj1d5eg.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_15.png)
 
 *Final Pre-Training and Post-Training pages*
 
@@ -249,15 +249,15 @@ Balanced four distinct areas with unique needs and constraints:
 
 **Key decisions:** Progressively reveal content by belt level, connect training completion to advancement
 
-![](https://framerusercontent.com/images/eJf0cEYL5UCiyl7qm0Lfi0zIjiM.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_26.png)
 
 *Information hierarchy explorations for trainings and skill progress*
 
-![](https://framerusercontent.com/images/I6VHBNMxwSXIuRKZBJCXQpJY5Jw.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_09.png)
 
 *High-fidelity mockups with belt progress and training components*
 
-![](https://framerusercontent.com/images/DjjAkobEQIQxxdQg2CL9Rw88.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_07.png)
 
 *Final Genre page with embedded donation CTA*
 
@@ -265,11 +265,11 @@ Balanced four distinct areas with unique needs and constraints:
 
 ## Skills Page
 
-![](https://framerusercontent.com/images/SSdcbxHsMstv7kaPXIA4nmKVI.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_19.png)
 
 *Initial structure: Skills and Context as separate systems*
 
-![](https://framerusercontent.com/images/LAokIexWA6A58PZJAeEAWaShPQ.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_12.png)
 
 *New structure: Skills and Context as collectibles scoped for game or genre levels*
 
@@ -281,15 +281,15 @@ Balanced four distinct areas with unique needs and constraints:
 
 **Key decisions:** Define core vs. genre-specific skills, balance discovery vs. mastery gameplay, allow for future genre expansion
 
-![](https://framerusercontent.com/images/knUmjhXPPDTPNkKl6iWIHoEx5I.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_30.png)
 
 *Initial sketches exploring layouts and summary statistics*
 
-![](https://framerusercontent.com/images/wMypt968qedNEyTRNWk0wldndEA.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_34.png)
 
 *Organized skills by game scope with details modal*
 
-![](https://framerusercontent.com/images/uoL58D4whzBCMEYJwdlrbYjAdI.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_32.png)
 
 *Mid-fidelity Skills page with different skill representations*
 
@@ -303,23 +303,23 @@ Balanced four distinct areas with unique needs and constraints:
 
 **Key decisions:** Balance depth with simplicity, cultural sensitivity, technical feasibility
 
-![](https://framerusercontent.com/images/I4vAPold6hdGVQ30lhQVCNEeI.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_08.png)
 
 *Competitive analysis of fitness and learning apps*
 
-![](https://framerusercontent.com/images/UdHgQSvITylvjeXPfNF3Rb7uI.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_20.png)
 
 *Initial sketches applying competitive insights*
 
-![](https://framerusercontent.com/images/xYCifh6S2hbLmEGAEHOpd3Br9U.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_36.png)
 
 *Reward explorations: medals, statistics, streaks, leaderboards*
 
-![](https://framerusercontent.com/images/MEAgFVlkQ0Sp2RRYvm8UJSdydc0.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_14.png)
 
 *Medal concept elevating Skills to equal importance with Belts*
 
-![](https://framerusercontent.com/images/PuFe3eb8PJ0MWwbHP0ql4b7zYPg.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_16.png)
 
 *Final Skills page optimized for breadth and depth gameplay*
 
@@ -331,15 +331,15 @@ Balanced four distinct areas with unique needs and constraints:
 
 **Key decisions:** Establish visual relationship between belts/skills, prevent genre confusion, guide new users through onboarding first
 
-![](https://framerusercontent.com/images/YaNIPKayIBJkDQQTvHqOmjtzYYg.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_22.png)
 
 *Layout explorations emphasizing Belts/Skills (left) and art (right)*
 
-![](https://framerusercontent.com/images/7U4P5D1xsy8lT32bN0RxIBATA.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_03.png)
 
 *Collaborated with visual designer on language and hierarchy*
 
-![](https://framerusercontent.com/images/vK4D6k0GwPVWk9gt2Q69lXHpyCA.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_33.png)
 
 *Dashboard adapts by user state: logged out, logged in, in progress*
 
@@ -372,7 +372,7 @@ Balanced four distinct areas with unique needs and constraints:
 
 1:1 unmoderated interviews with new and experienced users. Structure: Survey → Live Bible analysis exercise → Thought process discussion → Performance evaluation using standardized rubric.
 
-![](https://framerusercontent.com/images/bBxemd8gr8etlpnvSJLcoDi7m4.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_24.png)
 
 ## User Feedback
 
@@ -388,7 +388,7 @@ Balanced four distinct areas with unique needs and constraints:
 
 BibleDojo launched publicly in Dec 2023.
 
-![](https://framerusercontent.com/images/AZr5xWJNP1K3IoST25vlqSJxpWA.png)
+![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_assets_bibledojo@main/portfolio_assets_bibledojo_04.png)
 
 **Q1 2024 Results:**
 
